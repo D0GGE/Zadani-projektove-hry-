@@ -4,7 +4,7 @@
 
 **Členové skupiny:** Marek Pokorný, Matěj Šmíd, Štěpán Jančík
 
-Hra vznikla jako projekt v rámci Programování v prvním ročníku druhého pololetí na Obchodní akademii v Uherském Hradišti. Je to zkontrolování a zlepšení našich zkušeností v programování a naučení práci ve skupince. Díky projektu jsme se naučili používat repositář přes GitHub.
+Hra vznikla jako projekt v rámci Programování v prvním ročníku druhého pololetí na Obchodní akademii v Uherském Hradišti. Je to zkontrolování a zlepšení našich zkušeností v programování a naučení práci ve skupince. Díky projektu jsme se naučili používat repositář přes GitHub. Ještě rozepsat
 
 
 **Popis hry**
