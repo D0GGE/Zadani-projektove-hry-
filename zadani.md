@@ -9,7 +9,7 @@ Marek Pokorný, Matěj Šmíd, Štěpán Jančík
 
 Hra vznikla jako projekt v rámci Programování I. v prvním ročníku druhého pololetí na Obchodní akademii v Uherském Hradišti. Je to zkontrolování a zlepšení našich zkušeností v programování a naučení práci ve skupince. Díky projektu jsme se naučili používat repositář přes GitHub.
 
-**Popis hry:**
+## Popis hry
 
 Děj se odehrává v pizzerii, kde máte co nejdéle vydržet dělat objednávky, dokud zákazníci budou spokojení. Vždy když odevzdáte objednávku, dostanete plusový čas. Pokud zákazník nedostane svoji objednávku do nějaké doby, tak odejde a tím ztrácíte čas. Úkolem hry je se vydržet co nejdéle a mít dost času.
 
