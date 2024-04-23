@@ -9,7 +9,7 @@ Hra vznikla jako projekt v rámci Programování v prvním ročníku druhého po
 smazal jsem kousek zda to funguje
 
 
-**Popis hry**
+### Popis hry
 
 **Téma/náplň:** Hráč se vydá za postavu kuchaře který pracuje v Pizzerii.
 
