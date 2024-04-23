@@ -17,7 +17,7 @@ Děj se odehrává v pizzerii, kde máte co nejdéle vydržet dělat objednávky
 
 Dostali jste novou práci jako kuchař ve známé pizzérii MŠM Pizzerie, kde zrovna není lehké se udržet, protože zde se jede ve velkém. Jelikož jste zde první den, chce si majtel vyzkoušet vaše schopnosti a předá vám restauraci. Musíte se co nejlépe předvést a ukázat, že na tuto práci máte. Dokážete se udržet?
 
-**Okolí:** 
+**Reprezentace jednotlivých prvků:** 
 
 Jste v pizzérii, kde vaše část se nachází na pravé straně a zákazníků na levé. Jste kuchař, který se může pohybovat a dělat pizzu. Ve storage si můžete vzít svoje těsto, které pak rozválíte na Tablu. Po rozválení těsta přidáte ingredience a dáváte do pece na určitou dobu. Hotovou pizzu odevzdáte zákazníkovi a ten vám dá čas navíc. Pokud Zákazník nedostane svoji objednávku na čas, tak odchází a za to se přičítají záporné body (odečítá se čas).
 
@@ -42,3 +42,4 @@ Je automatizován a vybíráno místo, kde nikdo zrovna nesedí.
 **Konec hry:** 
 Hra končí když kuchaři dojde čas. Jeho skore se zobrazí na herní ploše a bude mít možnost se vrátit na hlavní stránku, nebo zopakovat hru.
 
+© MŠM enterprise 2024-2024
